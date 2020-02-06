@@ -1,0 +1,2 @@
+# go
+Basic golang practice
