@@ -1,2 +1,3 @@
 # go
-Basic golang practice
+Basic golang practice done for fun
+
