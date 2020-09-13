@@ -1,11 +1,14 @@
 package main
-import( "fmt"
+import( "fmt";
+		"golang.org/x/tour/wc"
 )
 
-func add(x, y int) int{
-	return x + y
+func WordCount(s string) map[string]int<{
+	return map[string]int{"x":1}
 }
+
 func main(){
 
-	fmt.Print(add(13, 5))
+	wc.Test(WordCount)
+	}
 }
